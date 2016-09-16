@@ -51,39 +51,39 @@ Si en algun momento quereis detener la ejecución del script o mostrar el chat, 
 Base 1 coin:
 
 Racha de perdidas	Apuestas	Balance inicial que necesitas
-#0	1 coins	1 coins
-#1	2 coins	3 coins
-#2	4 coins	7 coins
-#3	8 coins	15 coins
-#4	16 coins	31 coins
-#5	32 coins	63 coins
-#6	64 coins	127 coins
-#7	128 coins	255 coins
-#8	256 coins	511 coins
-#9	512 coins	1023 coins
-#10	1024 coins	2047 coins
-#11	2048 coins	4095 coins
-#12	4096 coins	8191 coins
-#13	8192 coins	16383 coins
-#14	16384 coins	32767coins
-#15	32768 coins	65535 coins
+0	1 coins	1 coins
+1	2 coins	3 coins
+2	4 coins	7 coins
+3	8 coins	15 coins
+4	16 coins	31 coins
+5	32 coins	63 coins
+6	64 coins	127 coins
+7	128 coins	255 coins
+8	256 coins	511 coins
+9	512 coins	1023 coins
+10	1024 coins	2047 coins
+11	2048 coins	4095 coins
+12	4096 coins	8191 coins
+13	8192 coins	16383 coins
+14	16384 coins	32767coins
+15	32768 coins	65535 coins
 
 Base 5 coins:
 
 Racha de perdidas	Apuestas	Balance inicial que necesitas
-#0	5 coins	5 coins
-#1	10 coins	15 coins
-#2	20 coins	35 coins
-#3	40 coins	75 coins
-#4	80 coins	155 coins
-#5	160 coins	315 coins
-#6	320 coins	635 coins
-#7	640 coins	1275 coins
-#8	1280 coins	2555 coins
-#9	2560 coins	5115 coins
-#10	5120 coins	10235 coins
-#11	10240 coins	20475 coins
-#12	20480 coins	40955 coins
-#13	40960 coins	81915 coins
-#14	81920 coins	163835 coins
-#15	163840 coins	327675 coins
+0	5 coins	5 coins
+1	10 coins	15 coins
+2	20 coins	35 coins
+3	40 coins	75 coins
+4	80 coins	155 coins
+5	160 coins	315 coins
+6	320 coins	635 coins
+7	640 coins	1275 coins
+8	1280 coins	2555 coins
+9	2560 coins	5115 coins
+10	5120 coins	10235 coins
+11	10240 coins	20475 coins
+12	20480 coins	40955 coins
+13	40960 coins	81915 coins
+14	81920 coins	163835 coins
+15	163840 coins	327675 coins
