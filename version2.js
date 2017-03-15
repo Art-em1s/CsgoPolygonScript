@@ -45,7 +45,7 @@ function iniciarScript() {
 		document.getElementById("totalGanado").innerHTML = totalGanado;
 		document.getElementById("totalPerdido").innerHTML = totalPerdido;
 		document.getElementById("rondasJugadas").innerHTML = rondasJugadas;
-		document.getElementById("horaInicio").innerHTML = d.getDate() + "/" + d.getMonth() + " " + d.getHours() + "h."+ d.getMinutes() + "m.";
+		document.getElementById("horaInicio").innerHTML = d.getHours() + ":"+ d.getMinutes();
 
 		document.getElementById("consolaScript").innerHTML += "Iniciando script....\n";
 		textarea.scrollTop = textarea.scrollHeight;
